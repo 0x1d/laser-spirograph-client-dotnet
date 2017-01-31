@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LaserSpirograph.NET">
+</Property><Property Name="Projektmappendatei" Value="E:\11 Laser Spirograph\trunk\DotNetSpiroClient\LaserSpirograph.NET.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="E:\11 Laser Spirograph\trunk\DotNetSpiroClient\LaserSpirograph.NET.suo">
+</Property><Property Name="Date" Value="Sonntag, 15. Mai 2011">
+</Property><Property Name="Time" Value="16:04">
+</Property><Property Name="Protokollnummer" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LaserSpirograph.NET.sln" Description="Datei wurde erfolgreich als &quot;E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\LaserSpirograph.NET.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="LaserSpirograph.NET.suo" Description="Datei wurde erfolgreich als &quot;E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\LaserSpirograph.NET.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="LaserSpirograph.NET.csproj" Description="Projektdatei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\LaserSpirograph.NET.csproj">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="LaserSpirograph.NET.csproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\LaserSpirograph.NET.csproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Serializer.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Serializer.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="ControlForm.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\ControlForm.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="ControlForm.Designer.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\ControlForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Program.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="app.config" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\app.config">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\app.manifest" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\Settings.settings" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="SimpleSerial_TemporaryKey.pfx" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\SimpleSerial_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Icon.ico" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Icon.ico">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="ControlForm.resx" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\ControlForm.resx">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="Properties\Resources.resx" Description="Datei erfolgreich gesichert als E:\11 Laser Spirograph\trunk\DotNetSpiroClient\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LaserSpirograph.NET" Source="LaserSpirograph.NET.csproj" Description="Die Projektdatei erfordert keine Konvertierung.">
+</Event><Event ErrorLevel="3" Project="LaserSpirograph.NET" Source="LaserSpirograph.NET.csproj" Description="Keine Konvertierung erforderlich">
+</Event><Event ErrorLevel="0" Project="" Source="LaserSpirograph.NET.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="LaserSpirograph.NET.sln" Description="Converted">
+</Event></UpgradeLog>

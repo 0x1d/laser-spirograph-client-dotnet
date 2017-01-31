@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleSerial">
+</Property><Property Name="Projektmappendatei" Value="E:\2 Modellbau\schiff2\VC\SimpleSerial\SimpleSerial.sln">
+</Property><Property Name="Date" Value="Sonntag, 12. Juli 2009">
+</Property><Property Name="Time" Value="19:45:06">
+</Property></Properties><Event ErrorLevel="0" Project="SimpleSerial" Source="SimpleSerial.csproj" Description="Projektdatei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\SimpleSerial.csproj">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Form1.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Form1.Designer.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Program.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Properties\Settings.settings" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Form1.resx" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="Properties\Resources.resx" Description="Datei erfolgreich gesichert als E:\2 Modellbau\schiff2\VC\SimpleSerial\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="SimpleSerial.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="SimpleSerial" Source="SimpleSerial.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleSerial" Source="SimpleSerial.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

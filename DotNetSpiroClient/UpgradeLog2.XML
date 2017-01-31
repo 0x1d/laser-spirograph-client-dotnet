@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RDISutil">
+</Property><Property Name="Solution File" Value="C:\Dokumente und Einstellungen\FrY's Hp\Desktop\RdisUtil_1_4_src\RDISutil.sln">
+</Property><Property Name="Date" Value="Sonntag, 2. Januar 2011">
+</Property><Property Name="Time" Value="15:45">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="RDISutil" Source="RDISutil.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RDISutil" Source="RDISutil.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RDISutil.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RDISutil.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RDISutil" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="RDISutil" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
